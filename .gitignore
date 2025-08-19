@@ -1,0 +1,33 @@
+﻿# Java
+*.class
+*.jar
+*.war
+*.ear
+hs_err_pid*
+replay_pid*
+
+# Build output
+bin/
+out/
+target/
+build/
+
+# IDE / Editor
+.vscode/
+.settings/
+.classpath
+.project
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Tools
+.gradle/
+.mvn/wrapper/maven-wrapper.jar
