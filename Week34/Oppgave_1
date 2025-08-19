@@ -1,0 +1,15 @@
+public class Oppgave_1 {
+    public static void main(String args[]) {
+        int a= 3;
+        int b=5;
+         System.out.println("first a " + a);
+         System.out.println( "first b " + b);
+        
+        a=25;
+        b=12;
+         System.out.println("second a " + a);
+         System.out.println("second b " +b);
+        
+        
+    }
+}
